@@ -1,0 +1,21 @@
+.navbar-brand{
+	font-weight: bold;
+}
+#head1{
+	background-color: #1c77a9;
+}
+.hlink{
+	color: #fff;
+	font-size: 2em;
+}
+.table-responsive{
+	box-shadow: 10px 10px 8px #888888;
+}
+.txt1{
+	font-size: 18px;
+	padding: 20px;
+	border-style: groove;
+	border-width: 5px;
+	border-radius: 5px;
+	box-shadow: 10px 10px 8px #888888;
+}
